@@ -1,0 +1,24 @@
+
+
+#name {
+	font-family: 'Georgia', Times, Times New Roman, serif;
+	color: white;
+	float: left;
+	position: fixed;
+	padding: 30px 30px 30px 30px;
+	margin-left: 50px;
+	background-color: #4aaaa5;
+	text-align: center;
+	font-color: white;
+}
+#aboutme {
+	font-family: 'Georgia', Times, Times New Roman, serif;
+}
+#links {
+	float: right;
+	color: #777777;
+	background-color: #ffffff;
+	width: 200px;
+	right: 1px;
+}
+
