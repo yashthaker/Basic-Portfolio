@@ -14,11 +14,17 @@
 #aboutme {
 	font-family: 'Georgia', Times, Times New Roman, serif;
 }
-#links {
+.links li{
 	float: right;
 	color: #777777;
 	background-color: #ffffff;
 	width: 200px;
 	right: 1px;
+	display: inline;
 }
 
+.copyright
+{
+    color: #777777;
+    background-color: #666666;
+}
